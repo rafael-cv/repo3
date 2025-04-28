@@ -1,1 +1,2 @@
 Fila 1 del segundo archivo
+Fila 2 del segundo archivo
